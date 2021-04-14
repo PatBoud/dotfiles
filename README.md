@@ -1,7 +1,6 @@
 # dotfiles
 
 ## Fichiers de configuration divers
----
 
 ### Linux
 | Fichier | Description |
