@@ -204,6 +204,7 @@ prompt_hg() {
 
 # Dir: current working directory
 prompt_dir() {
+  # Affiche seulement le dossier en cours plutot que le chemin complet
   prompt_segment blue $CURRENT_FG '%1~'
 }
 
