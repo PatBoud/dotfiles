@@ -11,6 +11,9 @@
 | .agnoster.zsh-theme | Thème pour oh-my-zsh avec mes paramètres personnalisés |
 
 
+*Note:* Les personnalisations de oh-my-zsh nécéssitent l'installation de fonts modifiées. Le téléchargement se fait ici: https://github.com/powerline/fonts
+
+
 ### New Windows Terminal
 | Fichier | Description |
 | ------- | ----------- |
