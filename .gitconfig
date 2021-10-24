@@ -1,0 +1,12 @@
+[alias]
+	gl = config --global -l
+	st = status -sb
+	ll = log --oneline
+	ac = !git add . && git commit -m
+	last = log -1 HEAD --stat
+	cm = commit -m
+	d = diff
+	se = !git rev-list --all | xargs git grep -F
+[user]
+	name = PatBoud
+	email = PatBoud@users.noreply.github.com
