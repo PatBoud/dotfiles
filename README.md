@@ -20,3 +20,9 @@
 | .settings.json | Configuration de l'application |
 | powershell.png | Image de fond Powershell |
 | ubuntu.jpg | Image de fond pour WSL |
+
+### Git
+| Fichier | Description |
+| ------- | ----------- |
+| .gitignore | Extensions de fichiers à ignorer |
+| .gitconfig | Paramètres de l'utilisateur et alias de commandes |
