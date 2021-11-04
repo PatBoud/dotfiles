@@ -53,7 +53,7 @@
     {
         "defaults": 
         {
-            "startingDirectory": "m:/"
+            "startingDirectory": "c:/"
         },
         "list": 
         [
