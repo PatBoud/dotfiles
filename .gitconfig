@@ -7,6 +7,7 @@
 	cm = commit -m
 	d = diff
 	se = !git rev-list --all | xargs git grep -F
+	ru = !git remote update && git status
 [user]
 	name = PatBoud
 	email = PatBoud@users.noreply.github.com

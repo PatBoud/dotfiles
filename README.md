@@ -20,6 +20,7 @@
 | .settings.json | Configuration de l'application |
 | powershell.png | Image de fond Powershell |
 | ubuntu.jpg | Image de fond pour WSL |
+| dicj.png | Logo pour un serveur spécifique |
 
 ### Git
 | Fichier | Description |
