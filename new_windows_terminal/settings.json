@@ -58,17 +58,17 @@
         "list": 
         [
             {
-                "backgroundImage": "%USERPROFILE%/Pictures/Terminal/Ubuntu.jpg",
+                "backgroundImage": "%USERPROFILE%/Pictures/Terminal/bg-ubuntu.jpg",
                 "backgroundImageOpacity": 0.5,
                 "colorScheme": "Campbell Ubuntu",
                 "commandline": "ssh dicjlinux01 -l tech",
                 "guid": "{958cdd26-32f0-4474-b085-2f59435c0fba}",
                 "hidden": false,
-                "icon": "%USERPROFILE%/Pictures/Terminal/dicj.png",
+                "icon": "%USERPROFILE%/Pictures/Terminal/logo-dicj.png",
                 "name": "DICJLinux01"
             },
             {
-                "backgroundImage": "%USERPROFILE%/Pictures/Terminal/powershell.png",
+                "backgroundImage": "%USERPROFILE%/Pictures/Terminal/bg-powershell.png",
                 "backgroundImageOpacity": 0.10000000000000001,
                 "colorScheme": "Campbell Powershell",
                 "commandline": "powershell.exe",
@@ -103,7 +103,7 @@
                 "source": "Windows.Terminal.Azure"
             },
             {
-                "backgroundImage": "%USERPROFILE%/Pictures/Terminal/Ubuntu.jpg",
+                "backgroundImage": "%USERPROFILE%/Pictures/Terminal/bg-ubuntu.jpg",
                 "backgroundImageOpacity": 0.59999999999999998,
                 "guid": "{07b52e3e-de2c-5db4-bd2d-ba144ed6c273}",
                 "hidden": false,
