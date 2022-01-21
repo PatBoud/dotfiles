@@ -18,9 +18,14 @@
 | Fichier | Description |
 | ------- | ----------- |
 | .settings.json | Configuration de l'application |
-| powershell.png | Image de fond Powershell |
-| ubuntu.jpg | Image de fond pour WSL |
-| dicj.png | Logo pour un serveur spécifique |
+| bg-powershell.png | Image de fond Powershell |
+| bg-ubuntu.jpg | Image de fond pour WSL / Linux |
+| logo-dicj.png | Logo pour un serveur spécifique |
+| logo-alpine.png | Logo pour serveurs Linux Alpine |
+| logo-ubuntu.png | Logo pour serveurs Linux Ubuntu |
+
+*Note:* Les images doivent être copiées dans un nouveau dossier: "%USERPROFILE%\Pictures\Terminal"
+
 
 ### Git
 | Fichier | Description |
