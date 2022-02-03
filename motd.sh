@@ -73,4 +73,4 @@ echo -e "${VERT}Charge${GRIS}..... ${BLEU}${one}${GRIS}, ${BLEU}${five}${GRIS}, 
 echo -e "${VERT}Disque${GRIS}......${BLEU}${DISKUSED}${GRIS} / ${BLEU}${DISKSIZE} ${GRIS}(${BLEU}${DISKPCT}%${GRIS})"
 
 echo -e "${GRIS}------------------------------------------------"
-echo ""
+echo -e $RESET
