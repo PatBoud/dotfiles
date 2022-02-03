@@ -45,7 +45,8 @@ DISKSIZE=$(df -hP / | awk '{print $2}' |tail -1|sed 's/%$//g')
 DISKPCT=$(df -hP / | awk '{print $5}' |tail -1|sed 's/%$//g')
 
 
-
+# Affichage d'une ligne vide
+echo ""
 
 # Affichage de la ligne précédant le ASCII, suivi de la couleur du MOTD
 # Longueur: 48 caractères
