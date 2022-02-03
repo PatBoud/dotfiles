@@ -15,5 +15,5 @@ alias tn="t new -s"
 alias upd="sudo apk update && sudo apk upgrade"
 
 
-# Prompt
+# Prompt (Généré avec https://scriptim.github.io/bash-prompt-generator/)
 PS1='\[\e[0;38;5;34m\]\u\[\e[0;38;5;253m\]@\[\e[0;38;5;179m\]\h\[\e[0;38;5;253m\]:\[\e[0;38;5;32m\]\w\[\e[0m\]\$\[\e[0m\] '
