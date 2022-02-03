@@ -5,7 +5,7 @@
 ### Linux
 | Fichier | Description |
 | ------- | ----------- |
-| .bash_aliases | Raccourcis vers des commandes communes |
+| .bash_profile | Paramètres bash, incluant prompt personnalisé et alias vers des commandes communes |
 | .tmux.conf | Configuration pour tmux |
 | .zshrc | Configuration du shell zsh avec oh-my-zsh |
 | .agnoster.zsh-theme | Thème pour oh-my-zsh avec mes paramètres personnalisés |
