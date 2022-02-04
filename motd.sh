@@ -71,7 +71,7 @@ echo ""
 echo -e "${VERT}IP${GRIS}......... ${BLEU}$IP"
 echo -e "${VERT}Uptime${GRIS}..... ${BLEU}$UPTIME"
 echo -e "${VERT}Charge${GRIS}..... ${BLEU}${one}${GRIS}, ${BLEU}${five}${GRIS}, ${BLEU}${fifteen} ${GRIS}(1, 5, 15 min)"
-echo -e "${VERT}Disque${GRIS}......${BLEU}${DISKUSED}${GRIS} / ${BLEU}${DISKSIZE} ${GRIS}(${BLEU}${DISKPCT}%${GRIS})"
+echo -e "${VERT}Disque${GRIS}..... ${BLEU}${DISKUSED}${GRIS} / ${BLEU}${DISKSIZE} ${GRIS}(${BLEU}${DISKPCT}%${GRIS})"
 
 echo -e "${GRIS}------------------------------------------------"
 echo -e $RESET
