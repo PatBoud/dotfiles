@@ -3,7 +3,7 @@
 # Script de MOTD personnalisé.
 #
 # Copier   motd.sh   dans le dossier /etc/profile.d/
-# Rendre   motd.sh   avec la commande sudo chmod +x /etc/profile.d/motd.sh
+# Rendre   motd.sh   exécutable avec la commande sudo chmod +x /etc/profile.d/motd.sh
 #
 # Copier   motd.txt  dans le dossier /etc/profile.d/
 # Modifier motd.txt  pour qu'il contienne un message/dessin ASCII personnalisé
