@@ -1,5 +1,5 @@
 # Docker
-alias d="sudo docker ps -a"
+alias d="docker ps -a --format "table {{.Image}}\t{{ .Names }}\t{{.Status}}""
 alias dc="sudo docker-compose"
 
 # Tmux
