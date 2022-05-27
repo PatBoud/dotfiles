@@ -7,6 +7,7 @@
 | ------- | ----------- |
 | .bash_profile | Paramètres bash, incluant prompt personnalisé et alias vers des commandes communes |
 | .tmux.conf | Configuration pour tmux |
+| tm.sh | Script qui lance tmux avec mes dispositions préférées |
 | .zshrc | Configuration du shell zsh avec oh-my-zsh |
 | .agnoster.zsh-theme | Thème pour oh-my-zsh avec mes paramètres personnalisés |
 | .motd.sh | Script qui affiche un MOTD personnalisé et des informations système |
