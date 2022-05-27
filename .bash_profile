@@ -7,6 +7,7 @@ alias t="tmux"
 alias ta="t attach"
 alias tls="t ls"
 alias tn="t new -s"
+alias tm="~/tm.sh"
 
 # Update Ubuntu
 #alias upd="sudo apt update && sudo apt full-upgrade"
