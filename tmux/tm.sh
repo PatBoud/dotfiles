@@ -5,8 +5,11 @@
 # PatBoud
 # 2022-05-27
 
+
 # INFORMATIONS
+
 # send-keys 'my-command' C-m  : Exécute une commande:
+
 # \;                          : Envoie le ; à tmux plutôt qu'à bash. Permets de lancer toutes les
 #                               commandes en une seule opération
 
@@ -43,7 +46,8 @@
 
 tmux new-session -s patboud \; \
   rename-window PatBoud \; \
-  send-keys 'tail -f /docker/webstack/nginx/logs/access.log' C-m \; \
+  send-keys 'tail -f /docker/webstack/nginx/logs/error.log' C-m \; \
+  select-pane -T "NGINX error.log" \; \
   split-window -v -p 85 \; \
   split-window -h -p 25 \; \
   send-keys 'htop' C-m \; \
@@ -51,7 +55,7 @@ tmux new-session -s patboud \; \
   split-window -v -p 25 \; \
   select-pane -t 2 \; \
   new-window \; \
-  rename-window Edition \; \
+  rename-window Édition \; \
   split-window -v -p 20 \; \
   select-pane -t 1 \; \
   split-window -h \; \
