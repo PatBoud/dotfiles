@@ -1,3 +1,7 @@
+# ls
+alias l='ls -lF --group-directories-first'
+alias ll='ls -alF --group-directories-first'
+
 # Docker
 alias d="sudo docker ps -a --format 'table {{.Image}}\t{{ .Names }}\t{{.Status}}'"
 alias dc="sudo docker-compose"
