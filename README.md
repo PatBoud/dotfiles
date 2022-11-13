@@ -12,7 +12,7 @@
 | .agnoster.zsh-theme | Thème pour oh-my-zsh avec mes paramètres personnalisés |
 | .motd.sh | Script qui affiche un MOTD personnalisé et des informations système |
 | motd-xxxxx.txt | Fichiers contenant un MOTD pour diverses machines |
-
+| starship/* | Fichiers de configuration du prompt Starship |
 
 *Note:* Les personnalisations de oh-my-zsh nécéssitent l'installation de fonts modifiées. Le téléchargement se fait ici: https://github.com/powerline/fonts
 
