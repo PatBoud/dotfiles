@@ -1,8 +1,13 @@
- 
-# Wait 10 milliseconds for starship to check files under the current directory.
+# ==============================================
+# Configuration Starship [https://starship.rs/]
+#
+# Par: PatBoud
+# ==============================================
+
+# Paramètres globaux
 scan_timeout = 10
- 
 add_newline = true
+
 
 
 [hostname]
