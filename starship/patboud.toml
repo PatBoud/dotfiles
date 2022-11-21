@@ -12,12 +12,12 @@ add_newline = true
 # NE FONCTIONNE PAS
 #
 # Palette de couleurs
-palette = "pat"
+# palette = "pat"
 
-[palettes.pat]
+#[palettes.pat]
 # Définition des couleurs de la palette
-orange = "179"
-bleu = "32"
+#orange = "179"
+#bleu = "32"
 # ???????????????????????????
 
 [hostname]
@@ -33,3 +33,4 @@ show_always = true
 style = "32"
 truncation_length = 10
 truncation_symbol = "…/"
+truncate_to_repo = false
